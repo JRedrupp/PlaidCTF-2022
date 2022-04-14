@@ -5,4 +5,7 @@ https://ctftime.org/event/1542/
 
 
 ## Tasks
- - Placeholder
+### Solved
+ - [sanity-check](sanity-check/README.md)
+### Un-Solved
+ - [flagsong](flagsong/README.md)
